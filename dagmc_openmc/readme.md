@@ -1,5 +1,5 @@
 # How to Use
-This def file is intended to be built on UW Madison's HPC cluster. It uses a base image provided on the cluster. It includes HDF5, EMBREE, MOAB, Double Down, DAGMC, and OpenMC.
+This def file is intended to be built on UW Madison's HPC cluster, creating an image that can be used to run DAGMC enabled OpenMC. It uses a base image provided on the cluster. It includes HDF5, EMBREE, MOAB, Double Down, DAGMC, and OpenMC.
 
 To build the image, run
 
